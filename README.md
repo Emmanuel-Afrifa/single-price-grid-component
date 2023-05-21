@@ -18,8 +18,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ![Screenshot of the webpage](./images/Web%20capture_21-5-2023_165240_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository](#)
-- [Deployed site](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/single-price-grid-component)
+- [Deployed site](https://single-grid-frontend-sol.netlify.app/)
 
 ## Process
 ### Tools Used
